@@ -26,7 +26,7 @@ pokemon_by_class <- pokemon |>
 
 # plot colours
 pokemon_text <- "#2a75bb"
-pokemon_fill <- "#2a75bb"
+pokemon_fill <- "#ffcb05"
 
 
 # formatted bar plot example
